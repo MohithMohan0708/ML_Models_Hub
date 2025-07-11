@@ -1,0 +1,101 @@
+ID,Age,Income,Spending Score,Education Level,Employment Status,Purchase Amount,Study Hours,Pass/Fail Outcome,Preferred Store Type,Annual Purchases
+1,54,89741,74,Master's,0,331.58,6.7,0,Electronics,41
+2,60,72651,71,High School,0,231.26,5.5,0,Electronics,46
+3,38,90985,85,Master's,1,385.92,9.6,1,Electronics,49
+4,48,68342,50,High School,1,236.78,2.5,1,Clothing,36
+5,55,139505,83,High School,0,196.86,0.8,1,Clothing,22
+6,22,104788,37,High School,1,251.32,3.9,0,Grocery,23
+7,54,27263,84,Master's,1,163.28,3.4,1,Electronics,20
+8,59,64668,17,High School,0,87.26,9.8,0,Electronics,2
+9,58,105434,50,High School,1,149.84,5.4,1,Electronics,19
+10,32,31872,81,High School,1,135.79,4.6,0,Grocery,19
+11,26,91854,12,Bachelor's,1,126.64,1.9,1,Clothing,45
+12,23,40366,94,Bachelor's,1,356.4,2.7,1,Clothing,16
+13,35,125876,26,Bachelor's,1,454.43,1.1,1,Clothing,11
+14,49,100387,29,Master's,1,376.72,5.6,0,Grocery,7
+15,42,51827,70,High School,0,283.12,2.8,1,Grocery,33
+16,62,149085,30,Master's,1,240.98,3.7,0,Grocery,21
+17,42,36363,40,High School,0,59.4,2.7,0,Clothing,28
+18,39,111926,56,Master's,1,121.35,9.8,1,Electronics,36
+19,49,93855,10,Master's,0,239.25,7.1,1,Electronics,45
+20,54,53186,88,High School,0,128.27,7.4,0,Grocery,26
+21,40,96353,76,High School,1,112.73,7.2,0,Grocery,21
+22,30,89006,63,Master's,0,396.49,3.6,0,Clothing,15
+23,47,133134,65,Bachelor's,0,429.2,0.4,0,Clothing,2
+24,26,141072,81,High School,1,392.78,5.9,0,Electronics,23
+25,35,113992,53,Master's,0,465.28,2.1,1,Clothing,24
+26,50,74530,38,Bachelor's,0,164.94,5.3,0,Clothing,49
+27,36,122350,30,Master's,0,156.79,2.2,0,Grocery,4
+28,25,83382,64,Bachelor's,0,412.98,4.9,1,Clothing,22
+29,51,30133,81,High School,1,243.77,2.3,0,Grocery,42
+30,62,47629,51,Master's,0,361.61,2.1,0,Clothing,45
+31,26,22604,48,Bachelor's,1,190.61,8.1,0,Clothing,47
+32,51,100571,63,High School,0,237.65,6.7,1,Electronics,7
+33,36,53094,40,Master's,0,128.8,6.3,1,Grocery,38
+34,62,136888,74,Master's,0,226.98,7.1,1,Grocery,27
+35,52,22051,23,High School,0,391.54,9.6,0,Clothing,32
+36,58,113652,66,High School,0,117.56,9,1,Electronics,26
+37,48,45850,83,Master's,0,276.74,1.7,0,Clothing,11
+38,19,35261,92,Master's,0,218.71,3.9,1,Clothing,9
+39,41,121616,90,Master's,0,222.73,2.8,1,Electronics,1
+40,49,60823,49,Master's,0,182.54,7.5,0,Clothing,11
+41,42,145490,25,Bachelor's,1,435.96,8.2,0,Grocery,44
+42,34,22247,80,Bachelor's,1,368.94,1.9,0,Grocery,1
+43,57,122507,50,Master's,1,254.02,0.4,1,Electronics,15
+44,55,39912,83,Bachelor's,1,76.81,2.1,0,Grocery,8
+45,25,111405,37,Bachelor's,0,161.83,8.8,1,Clothing,12
+46,46,40707,35,Bachelor's,0,224.38,1,0,Electronics,29
+47,43,48902,25,High School,0,314.16,4,1,Clothing,24
+48,40,99450,25,Bachelor's,0,63.52,4.6,1,Clothing,19
+49,38,85317,31,High School,1,120.78,5.7,0,Electronics,19
+50,55,89132,17,Master's,1,141.76,6,0,Clothing,12
+51,62,103376,58,Master's,1,480.15,8.2,0,Clothing,33
+52,29,139904,18,Bachelor's,1,231.77,5.8,0,Grocery,10
+53,62,58721,29,Master's,1,277.07,6.7,1,Clothing,38
+54,32,28799,54,Bachelor's,1,143.92,5.8,1,Clothing,46
+55,24,45824,50,High School,1,169.94,6,0,Grocery,31
+56,46,78616,17,Bachelor's,1,398.03,3.4,1,Grocery,7
+57,35,70138,56,Bachelor's,0,350.59,4,1,Clothing,12
+58,54,56214,21,Bachelor's,0,406.62,1.6,0,Electronics,35
+59,43,111921,83,Master's,0,408.14,9.8,0,Grocery,17
+60,31,133905,66,Bachelor's,0,470.93,9.1,1,Grocery,50
+61,22,103970,79,High School,1,279.37,5.7,1,Grocery,5
+62,54,70166,65,Bachelor's,0,492.32,2.6,0,Clothing,20
+63,34,79983,60,Bachelor's,1,383.19,1.6,0,Grocery,7
+64,63,114048,1,Bachelor's,1,488.17,6.7,1,Clothing,4
+65,29,42305,87,Master's,0,441.13,6.6,1,Clothing,23
+66,60,63562,96,Master's,1,312.24,2.2,1,Clothing,9
+67,42,136285,6,High School,1,161.66,8.2,1,Electronics,33
+68,63,68208,22,Bachelor's,0,262.67,6.5,1,Grocery,50
+69,62,107695,74,Master's,0,239.46,6,1,Clothing,5
+70,27,129037,86,High School,1,309.12,2.2,0,Electronics,3
+71,40,108942,24,High School,0,253.18,4.3,1,Grocery,27
+72,28,77496,66,High School,0,51.92,0.6,1,Grocery,26
+73,61,82216,23,Bachelor's,1,162.3,6.5,0,Electronics,17
+74,35,54927,20,High School,0,158.81,7.3,0,Electronics,36
+75,24,40238,73,Master's,0,160.07,9.5,0,Clothing,17
+76,52,20520,68,Master's,0,204.7,8.7,0,Clothing,16
+77,40,27899,5,High School,1,66.95,1.1,0,Electronics,20
+78,19,65056,23,High School,0,139.26,2.7,1,Grocery,23
+79,27,34191,13,Master's,1,347.64,5.3,1,Electronics,41
+80,49,88048,74,Master's,1,102.15,9.9,1,Grocery,18
+81,34,128865,87,High School,0,315.59,3.5,1,Grocery,29
+82,42,123352,45,High School,1,359.22,1.6,0,Clothing,33
+83,41,94986,13,Bachelor's,0,164.22,4.7,0,Grocery,7
+84,51,123743,63,Master's,1,277.11,8.4,0,Grocery,49
+85,47,44250,98,High School,0,414.72,3.4,0,Clothing,20
+86,60,142673,44,Master's,1,94.26,1.3,1,Clothing,23
+87,41,65496,40,Bachelor's,1,129.56,7.7,0,Clothing,35
+88,30,41502,40,Bachelor's,0,290.01,0.8,0,Grocery,26
+89,18,37553,95,High School,0,234.68,9.9,0,Clothing,25
+90,26,35344,92,Bachelor's,0,434.56,10,0,Clothing,44
+91,32,66148,58,Bachelor's,0,55.12,8.2,1,Grocery,6
+92,57,140602,65,Master's,0,447.18,8.9,1,Electronics,33
+93,28,104583,16,High School,1,118.34,0.3,1,Clothing,29
+94,39,54280,52,Bachelor's,1,312.98,7.2,1,Grocery,34
+95,46,129101,97,Master's,1,229.31,4.5,0,Clothing,21
+96,59,130394,17,High School,0,108.36,6.7,0,Clothing,20
+97,39,33186,76,High School,1,63.22,2.1,1,Grocery,3
+98,61,63999,19,Bachelor's,0,292.23,7.5,1,Grocery,6
+99,54,104029,21,High School,1,141.66,0.9,1,Grocery,31
+100,26,55873,86,Bachelor's,0,306.68,7.2,1,Grocery,48
